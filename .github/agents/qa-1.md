@@ -1,6 +1,6 @@
 ---
 name: qa-1
-model: Gemini 3.1 Pro (Preview) (copilot)
+model: Claude Opus 4.7 (copilot)
 description: Use for QA
 ---
 

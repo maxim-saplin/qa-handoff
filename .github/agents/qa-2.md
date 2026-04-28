@@ -1,6 +1,6 @@
 ---
 name: qa-2
-model: GPT-5.3-Codex (copilot)
+model: Gemini 3.1 Pro (Preview) (copilot)
 description: Use for QA
 ---
 
